@@ -1,0 +1,4 @@
+SQLAlchemy == 1.4.32
+PyMySQL == 0.9.3
+flask == 2.1.1
+WTForms~=2.3.3
